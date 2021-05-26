@@ -1,0 +1,6 @@
+# imagenes
+*.jpg
+*.png
+
+# VSCode
+*.code-workspace
